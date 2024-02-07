@@ -1,0 +1,18 @@
+day-4
+
+
+**19.explain multimedia tags?
+Answer)  These tags include: 	<audio> for displaying a audio file on the web page.
+				<video> for displaying a video file on the web page.
+-------------------------------------------------------------------------------------------------------------------------------------------  
+20.explain all the atributes of audio and video tags?
+Answer)  The opening <video> and <audio> tags can contain several other attributes including controls , autoplay , loop , mute , preload , and the global attributes. The <video> element also supports the height , width , and poster attributes.
+------------------------------------------------------------------------------------------------------------------------------------------  
+**21.explain what are meta tags?
+Answer)  meta tags are HTML tags used to provide additional information about a page to search engines and other clients. Clients process the meta tags and ignore those they don't support.
+--------------------------------------------------------------------------------------------------------------------------------------------
+22.explain quotation and citation tags?
+Answer)  -->Quotation tag is used to show block-level quotations. It helps to change the position of the text and make it different from other elements. This tag uses an attribute called cite.
+
+	-->The <cite> tag defines the title of a creative work and the text in the <cite> element represented in italic.
+		e.g. a book, a poem, a song.

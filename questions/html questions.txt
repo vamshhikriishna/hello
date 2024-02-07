@@ -1,0 +1,51 @@
+html questions
+--------------------------------------------------------------------------------------------------------
+
+day-1 
+**1.what is Doctype in html?
+2.explain the structure of html?
+**3.write the latest features supported by Html5?
+4.write advantages and disadvantages of html5?
+5.explain the heading tags ?
+**6.what is difference between tag and element 
+------------------------------------------------------------------------------------------------------------
+Day-2 
+ **7.write the difference between blocklevel and inline level elements?
+ **8. what are void elements ?
+ **9.what are container tags ?
+ 10. what are empty elements ?
+**11.what are entities?
+12. write the difference between paragraph and preformatted tag?
+-----------------------------------------------------------------------------------------------------------
+day-3
+**13.what are attributes?
+14.write the difference between absolute and relative urls?
+15.explain the all the attributes of anchor tags?
+**16.explain the difference between orderlist ,undorderlist & discription list?
+17.explain the attributes of img tag?
+18.explain the picture element?
+-------------------------------------------------------------------------------------------------------------
+day-4
+**19.explain multimedia tags ?
+20.explain all the attributes of audio and video tags?
+**21.explain what are meta tags ?
+22.explain quotation and citation tags.
+
+day-5------------------------------------------------------------------------------------------------------
+**23. what is an iframe?
+24.explin diff input type attribute values.
+25.explain the diff between method get and post?
+26.explain the diff bw placeholder and value attributes.
+**27.explain the diff bw form elements and form controls.
+-----------------------------------------------------------------------------------------------------------
+day-6
+**28.expalin the difference between rowspan and colspan.
+**29.explain the diff bw cellpadding and cellspacing.
+**30.expalin all form controls.
+31.expalin all table elements and table attributes.
+---------------------------------------------------------------------------------------------------------------
+day-7
+**32.explain the difference between inline and block level elements?
+**33.explain the difference between semantic and nonsemantic elements.
+34.explain the advantages and diadvantages of svg tag.
+35.expalin the use of favicon.

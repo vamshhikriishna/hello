@@ -1,0 +1,46 @@
+day-5 questions
+
+**23. what is an iframe?
+Answer)  An inline frame (iframe) is a HTML element that loads another HTML page within the document.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+24.explin diff input type attribute values.
+Amswer)  the diff input attributes values are :
+
+-->button		:defines a clickable button
+-->checkbox		:defines a checkbox
+-->color		:defines a color picker
+-->date			:defines a date control(year,month,date)
+-->datetime-local	:defines a date time control(year,date,month,time)
+-->email		:defines a field for an e-mail address
+-->file			:defines a file select field and a browse button
+-->hidden		:defines a hidden input field
+-->image		:defines a image as the submit button
+-->month		:defines a month and year
+-->number		:defines a field for entering the number
+-->password		:defines a password field
+-->radio		:defines a radio button
+-->range		:defines a range control (like a slider control)
+-->reset		:defines a reset button
+-->search		:defines a text field for entering a search string
+-->submit		:defines a submit button
+-->tel			:defines a field for entering a telephone number
+-->text			:defines a single-line text field
+-->time			:defines a control for entering a time (no timezone)
+-->url			:defines a field for entering a URL
+-->week			:defines a week and year control
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+25.explain the diff between method get and post?
+Answer) 
+	--> get method: this method gets the information in the form of url format and not so secured and the characters in the url is limited.
+	
+	--> post method:this method gets the information in the formof url . Here  characters are secured and the characters in the url is not limited.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+26.explain the diff bw placeholder and value attributes.
+Answer)  The placeholder attribute specifies a short hint that describes the expected value (type of value) of an input field. The value attribute specifies the default value of an input field.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+**27.explain the diff bw form elements and form controls.
+Answer) --> The <form> element is a container for different types of input elements.
+
+	-->The form controls are used to control or to make changes in the form elements as per the user required.

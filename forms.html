@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--forms : are used to collect the data -->
+    <!--name attributes collect the values in the form of key and value pairs-->
+    <!--get method : method gets the information in the form of url format and not so secured and the characters in the url is limited -->
+    <!--post method: secured characters and the characters in url is not limited-->
+    <form method="get">
+        <label for="Name">name</label>
+        <input type="text" id="Name" name="Name">
+        <label for="password">password</label>
+        <input type="password" id="password" name="password">
+        <button type="submit">submit</button><br>
+
+        <form method="post" action="./index.html">
+            <label for="Name">Name</label>      <!--lable is form element-->
+            <input type="text" id="Name" name="Name" placeholder="enter your name" value="vamshhi">
+            <label for="password">password</label>
+            <input type="password" id="password" name="password">
+            <button type="submit">submit</button>
+    </form>
+</body>
+</html>

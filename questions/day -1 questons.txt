@@ -1,0 +1,59 @@
+day 1 questons(html)
+
+**1. what is doctype in html?
+Answer)  In HTML (Hypertext Markup Language), the  DOCTYPE is a declaration that specifies the version of HTML in which the document is written. 
+
+--------------------------------------------------------------------------------------------------------------------------
+2.explain the structure of html?
+Answer) the basic structure of html is 
+
+<!DOCTYPE html>
+<html>				                        (html tag is to end and begin the document)
+    <head>			
+        <title> title of the page </title>              (this tag used to name the page)
+    </head>
+    <body>
+        <h1>  </h1>                                     (this tag is for the heading purpose varies from h1 to h6 where h1 is the highest and h6 is lowest)
+	<p>   </p>                                      (this tag is to write paragraph)
+    </body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------
+**3.write the latest features supported by html5?
+Answer)  The latest features supported by html5 are:
+		1.new doctype
+		2.sematic elements
+		3.audio and video support
+		4.Scalable vector graphics(SVC)
+		5.local storage
+		6.geolocation API
+		7.web workers
+		8.web sockets
+--------------------------------------------------------------------------------------------------------------------------
+
+4.what does html stands for? write advantages and disadvantages of html?
+Answer)  html stands for (hypertext markup language).
+
+	Advantages:					Disadvantages:
+1.easy to learn and use.			1.no support for offline browssing.
+2.supported by all browsers.			2.lack of interactivity.
+3.simple syntax.				3.limited design capability.
+4.platform independent.				4.limited functionality.
+--------------------------------------------------------------------------------------------------------------------------
+
+5.explain the heading tags?
+Answer)  There are total 6 heading tags in html they are:
+	h1 size of 36 pixels
+	h2 size of 30 pixels
+	h3 size of 24 pixels
+	h4 size of 18 pixels
+	h5 size of 12 pixels
+	h6 size of  6 pixels where we can see h1 being the highest and h6 the least.
+
+-------------------------------------------------------------------------------------------------------------------------------
+**6.what is tag and what is element?diff bw tag and element.
+Answer)  An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document. 
+
+	 generally we will wright content in bw the opening and closing tag so the whole opening and closing tag and the content all together is known as element.
+
+--> HTML tags are used to hold the HTML elements where as HTML elements holds the content.

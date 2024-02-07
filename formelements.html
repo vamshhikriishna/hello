@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--form elements : input,lable,select,option,optgrough,fieldset,legend,datalist,textarea,button-->
+    <form action="">
+        <lable for="fname">fullname</lable>
+        <input type="text" placeholder="enter ur name" id="fname" name="fname">
+        <button type="submit">submit</button>
+    </form>
+
+    <!--select form elements-->
+    <form>
+        <select name="" id="">
+            <option value="">mobiles1</option>
+            <option value="">mobiles2</option>
+            <option value="">mobiles3</option>
+            <option value="">laptops</option>
+        </select>
+    </form>
+
+    <form>
+        <select name="" id="" multiple >
+            <option value="">mobiles1</option>
+            <option value="">mobiles2</option>
+            <option value="">mobiles3</option>
+            <option value="">laptops</option>
+        </select>
+    </form>
+
+    <!--datalist:which has predefine values for input elements-->
+    <form action="">
+            <input list="contry-codes">
+            <datalist id="contry-codes">
+                <option value="INDIA"></option>
+                <option value="USA"></option>
+                <option value="RUSSIA"></option>
+            
+            </datalist>
+    </form>
+
+    <!--optgrough element-->
+    <form action="">
+        <select name="" id="">
+            <optgroup lable="mobiles">Mobiles
+                <option value="">nokia</option>
+                <option value="">apple</option>
+            </optgroup>
+
+            <optgroup lable="laptops">laptops
+                <option value="">hp</option>
+                <option value="">dell</option>
+            </optgroup>
+        </select>
+    </form>
+
+    <!--fieldset and legend : are used for the grouping the deatils -->
+    <form action="">
+        <fieldset>
+            <legend>user info</legend>
+        <lable for="fname">fullname</lable>
+        <input type="text" placeholder="enter ur name" id="fname" name="fname">
+        <lable for="fpassword">fullname</lable>
+        <input type="password" placeholder="enter ur password" id="fpassword" name="fpassword">
+        <button type="submit">submit</button>
+        </fieldset>
+    </form>
+    <form action="">
+        <textarea name="" id="" cols="20" rows="5"></textarea>
+    </form>
+</body>
+</html>

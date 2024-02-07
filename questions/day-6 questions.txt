@@ -1,0 +1,67 @@
+day-6 questions
+
+**28.expalin the difference between rowspan and colspan.
+Answer)  Colspan attribute merges two or more columns into a single column. Rowspan attribute merges two or more rows into a single row.
+--------------------------------------------------------------------------
+**29.explain the diff bw cellpadding and cellspacing.
+Answer)  Cellpadding basically defines the space present between a table cell's border and the content present in it. Cellspacing basically defines the space present between individual adjacent cells.
+
+------------------------------------------------------------------------------
+**30.expalin all form controls.
+Answer) 
+ Input Elements:
+<input type="text">: Single-line text input.
+<input type="password">: Password input.
+<input type="checkbox">: Checkbox.
+<input type="radio">: Radio button.
+<input type="submit">: Submit button.
+<input type="reset">: Reset button.
+<input type="file">: File upload input.
+<input type="number">: Numeric input.
+<input type="email">: Email input.
+<input type="url">: URL input.
+<input type="tel">: Telephone number input.
+<input type="date">: Date input.
+<input type="time">: Time input.
+<input type="datetime-local">: Local date and time input.
+<input type="color">: Color picker input.
+<input type="range">: Range slider input.
+
+Textarea:
+<textarea>: Multiline text input.
+
+Select:
+<select>: Dropdown list.
+<option>: Options within a <select>.
+
+Buttons:
+<button>: General-purpose button.
+<input type="button">: General-purpose button.
+<input type="submit">: Submit button.
+<input type="reset">: Reset button.
+
+Grouping:
+<fieldset>: Groups related elements in a form.
+<legend>: Provides a caption for a <fieldset>.
+
+Form-related:
+<form>: Container for form elements.
+
+Labels:
+<label>: Describes a form control.
+The for attribute is used to associate the <label> with a form control.
+
+Hidden Input:
+<input type="hidden">: Hidden input field
+------------------------------------------------------------------------------
+31.expalin all table elements and table attributes.
+Answer)   The <tr> element defines a table row, the <th> element defines a table header, and the <td> element defines a table data/column.
+
+	where as table attributes are:
+border:specifies the width of the border around the table.
+cellpadding: specifies the space between the content of a cell and its border.
+cellspacing: specifies the space between the cells.
+width:specifies the width of the table.
+align:aligns the table within the containing elements.
+valign:vertical alignment of content within cells.
+summary:provides the discription or dummary of the table. 

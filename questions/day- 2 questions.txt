@@ -1,0 +1,30 @@
+day 2 questions
+
+
+**7. write the diff bw blocklevel and inline level elements.
+Answer)  Inline elements  occupies only the content width in browsers where as  Block elements occupies total width of the browsers and it always starts in a new line.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**8.what are void elements?
+Answer)  Void elements are the html elements that doesn't require a closing tag because they doesn't contain any content inside it.
+
+some of the void elements in html are:
+--> area,base,command,img,input,link,source etc.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**9.what are container tags?
+Answer) Container tags are the tags with some content inside it.
+
+Some of the container tags are:
+--> <h1>to<h6>,<p>,<div>,<strong>,<ol>,<ul>etc.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10.what are empty elements?
+Answer)   empty elements which are also known as void elements are the html elements that doesn't require a closing tag because they doesn't contain any content inside it.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**11.what are entities?
+Answer)  entities are special symbols used to avoid the confusion bw the html element.
+for example:
+		(i) For "<" we use "&lt" similarly for ">" we use "&gt" to avoid confusion.
+		(ii)Like wise we use "&nbsp" for extranspace bw the letters.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12.write the diff bw paragraph and preformatted tags?
+Answer)   Paragaph is <p> and <pre> is for preformated tag. The text in the <pre> tag will be presented as exactly as we written in the html file , while the text in <p> tag is presented with a default amount of space before and after the text that means extra space and as well as new lines are ignored.

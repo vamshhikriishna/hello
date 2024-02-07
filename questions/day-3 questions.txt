@@ -1,0 +1,32 @@
+day-3 questions
+
+13.**what are attributes?
+Answer)  An HTML attribute is a piece of markup language used to change the color, size, or functionality of HTML elements.
+	--> Aslo simply we can say that it gives additional information to the tag.
+	
+	eg: href,scr etc
+----------------------------------------------------------------------------------------------------------------------------------
+14.write the difference between absolute and relative urls?
+Answer)  absolute url is the complete address of the web page availabe in internet, where as relative url is the partial address of the internet.
+
+	Absolute URL								Relative URL
+							|
+1.Used to link web pages on different websites		|	1.used to link web pages within the same website.
+2.difficult to manage					|	2.easy to manage
+3.changes when server name changes			|	3.remain same even when server name changes
+4.take time to access					|	4.less time to access.
+----------------------------------------------------------------------------------------------------------------------------------
+15.explain all the attributes of anchor tags?
+Answer)  The <a> tag defines a hyperlink, which is used to link from one page to another. The most important attribute of the <a> element is the href attribute, which indicates the link's destination.
+---------------------------------------------------------------------------------------------------------------------------------
+16.**explain the difference between orderlist ,undorderlist & discription list?
+Answer) --> Ordered lists, which have an inherent order and each item is numbered.
+	--> Unordered lists, which have no inherent order and each item is bulleted. 
+	--> Description lists, which contain a list of terms and descriptions for each term.  
+----------------------------------------------------------------------------------------------------------------------------------
+17.explain the attributes of img tag?
+Answer)  The img element has two required attributes: 	1.src : The source location (URL) of the image file.
+							2.alt : The alternate text. 
+-------------------------------------------------------------------------------------------------------------------------------------
+18.explain the picture element?
+Answer)  picture elements is used to display responsive images across different devices and it is not supported by all browsers.

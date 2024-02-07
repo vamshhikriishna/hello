@@ -1,0 +1,48 @@
+day-7 questions
+
+**32.explain the difference between inline and block level elements?
+Answer)  
+Block-Level Elements:
+-->Occupy the full width available.
+-->Start on a new line.
+-->Allow for setting width, height, margins, padding, and borders.
+
+Inline Elements:
+-->Only take up as much width as necessary.
+-->Do not start on a new line.
+-->Do not allow for setting width, height, margins, padding, and borders.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+**33.explain the difference between semantic and nonsemantic elements.
+Answer)  
+Sematic Elements:
+-->Semantic elements are HTML tags that carry meaning about the structure and content of the document.
+-->Improve document structure, readability, and accessibility.
+-->Include elements like <header>, <nav>, <article>, etc.
+
+NonSematic Elements:
+-->Non-semantic elements are HTML tags that do not inherently convey meaning about the structure or content of the document.
+-->Used for layout, styling, or generic grouping.
+-->Include elements like <div>, <span>, <b>, <i>, etc.
+---------------------------------------------------------------------------------------------------------------------------------------------
+34.explain the advantages and diadvantages of svg tag.
+Answer)  the SVG tag stands for Scalable vector Graphics
+
+Advantages:	scalability
+		vector graphics
+		interactivity
+		accessibility
+		editable in test editor
+		small file sizes
+Disadvantages:
+		complexity
+		browse compatibility
+		less eficiency
+		security risks
+------------------------------------------------------------------------------------------------------------------------------------------------
+35.expalin the use of favicon.
+Answer)  A favicon is a small image displayed next to the page title in the browser tab. Its main purpose is to help visitors locate your page easier when they have multiple tabs open.
+
+
+
+
